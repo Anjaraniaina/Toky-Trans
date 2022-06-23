@@ -1,4 +1,5 @@
 import { useState } from "react"
+import '../css/style.css'
 const clients=[
     {
         cient:"franco roberto",
@@ -101,7 +102,7 @@ const clients=[
     }
 ]
 const Tr=["nom du client","status","offre","vehicule","chauffeur"]
-export const Table=()=>{
+export default const Table=()=>{
     const [state,setState]=useState(false)
     function handleclick(){
         setState(!state)
