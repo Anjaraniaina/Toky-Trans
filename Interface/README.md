@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Toky-trans Interface
+## About this folder
+Note that this interface was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this directory, you can see this project's interface.
+
+First, you need to install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/).  
+With yarn, install these package:
+- bootstrap
+- bootstrap-icons
+- react-router-dom
 
 ## Available Scripts
 
